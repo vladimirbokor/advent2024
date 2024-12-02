@@ -2,3 +2,8 @@
  (name task1)
  (libraries core)
  )
+
+(executable
+(name task2)
+(libraries core)
+)
