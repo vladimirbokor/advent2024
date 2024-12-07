@@ -1,0 +1,4 @@
+(executable
+ (name task1)
+ (libraries core)
+ )
